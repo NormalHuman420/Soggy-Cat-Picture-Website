@@ -1,0 +1,22 @@
+.info {
+  background-color:#4172e5;
+  display: flex;
+  margin: 5px;
+}
+
+.flex-item {
+  background-color:#7887AB;
+  flex-grow: 1;
+  margin: 5px;
+  max-width: 60%;
+  text-align: center;
+}
+
+/* .flex-item img */
+.flex-item div {
+  margin: auto;
+  height: 100%;
+  /* display: block; */
+
+  background-color: #4172e5;
+}
